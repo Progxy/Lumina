@@ -1,6 +1,6 @@
 # Lumina: A Simple MenuBar for MacOS
 
-#[!WARNING]
+> [!WARNING]
 > The following project is under development, take that into consideration.
 
 The following projects aims to offer a small set of features within the small form factor of a MacOS menu bar.
